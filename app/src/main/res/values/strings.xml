@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voice ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alarm_intent">AlarmIntent</string>
+    <string name="pending_todo_s">Pending todo\'s</string>
+    <string name="all_todos">Show all Todos</string>
+    <string name="cache">Delete cache</string>
+</resources>
